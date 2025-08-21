@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u222152/ML_TRAINING/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY-1/04_ML_Flow/mlruns/248232842832226542/0beac5dc6dec485e8a9270f34c22cf34/artifacts
+end_time: 1755787218820
+entry_point_name: ''
+experiment_id: '248232842832226542'
+lifecycle_stage: active
+run_id: 0beac5dc6dec485e8a9270f34c22cf34
+run_name: Gradient Boosting Classifier_CV_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755787202969
+status: 3
+tags: []
+user_id: u222152

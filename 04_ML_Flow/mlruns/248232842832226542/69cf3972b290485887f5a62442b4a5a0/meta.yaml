@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u222152/ML_TRAINING/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY-1/04_ML_Flow/mlruns/248232842832226542/69cf3972b290485887f5a62442b4a5a0/artifacts
+end_time: 1755787202922
+entry_point_name: ''
+experiment_id: '248232842832226542'
+lifecycle_stage: active
+run_id: 69cf3972b290485887f5a62442b4a5a0
+run_name: Random Forest Classifier_CV_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755787185146
+status: 3
+tags: []
+user_id: u222152

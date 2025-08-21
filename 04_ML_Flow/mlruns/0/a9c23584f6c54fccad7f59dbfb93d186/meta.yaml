@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u222152/ML_TRAINING/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY-1/04_ML_Flow/mlruns/0/a9c23584f6c54fccad7f59dbfb93d186/artifacts
+end_time: 1755786881538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9c23584f6c54fccad7f59dbfb93d186
+run_name: casual-lark-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755786854506
+status: 3
+tags: []
+user_id: u222152

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/u222152/ML_TRAINING/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY-1/04_ML_Flow/mlruns/0/models/m-d641d0905eb94066ad7c27d686da774e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 3.1.1
+model_id: m-d641d0905eb94066ad7c27d686da774e
+model_size_bytes: 78656
+model_uuid: m-d641d0905eb94066ad7c27d686da774e
+prompts: null
+run_id: a9c23584f6c54fccad7f59dbfb93d186
+utc_time_created: '2025-08-21 14:34:15.209957'
